@@ -14,9 +14,9 @@ def link
 end
 
 def all_phrases
-  puts phrase_a
-  puts phrase_b
-  puts phrase_c
+  puts mario
+  puts toadstool
+  puts link
 end
 
 puts all_phrases ("mario", "toadstool", "link")
