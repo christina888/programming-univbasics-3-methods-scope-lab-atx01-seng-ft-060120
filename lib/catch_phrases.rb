@@ -13,7 +13,7 @@ def link
   puts advice 
 end
 
-def all_phrases ("phrase_a", "phrase_b", "phrase_c")
+def all_phrases
   puts phrase_a
   puts phrase_b
   puts phrase_c
